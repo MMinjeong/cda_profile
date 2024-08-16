@@ -1,0 +1,163 @@
+.title0{
+    position: relative;
+    top: 40px;
+    color: #414141;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30;
+    text-align: center;
+}
+
+.title{
+    position: relative;
+    top: 40px;
+    left: 45px;
+    font-family:'Times New Roman', Times, serif;
+    color: #414141;
+    font-size: 30;
+}
+
+hr{
+    position: relative;
+    margin-left : 30;
+    top: 30px;
+    width: 950px;
+}
+
+.profile{
+    position: relative;
+    top:-5px;
+}
+
+.graybox{
+    position: relative;
+    top: 30px;
+    background-color: #F3F3F3;
+    height: 35vh;
+    padding: 30;
+    margin: 30;
+    width: 950px;
+    box-sizing: border-box;
+}
+
+/* 박민정 */
+.smalltitle1{
+    position: relative;
+    top: -200px;
+    left: 220px;
+    font-size: 25;
+}
+
+/* 소제목 */
+.smalltitle2{
+    position: relative;
+    top: -180px;
+    left: 230px;
+    font-size: 25;
+    font-family:'Times New Roman', Times, serif;
+    color: #414141;
+}
+
+.text2{
+    position: relative;
+    top: -220px;
+    left: 223px;
+    font-size: 15;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.text3{
+    position: relative;
+    top: -150px;
+    left: 230px;
+    font-size: 15;
+}
+
+.sticker1{
+    position: relative;
+    top: -225px;
+    left: 150px;
+}
+
+.sticker2{
+    position: absolute;
+    top: -130px;
+    left: 720px;
+    z-index: 1;
+}
+
+.sticker3{
+    position: absolute;
+    top: 180px;
+    left: 800px;
+}
+
+.speech{
+    position: absolute;
+    transform: rotate(20deg);
+    top: 117px;
+    left: 295px;
+}
+
+.logo1{
+    position: absolute;
+    top: 175px;
+    left: 350px;
+}
+
+.logo2{
+    position: absolute;
+    top: 175px;
+    left: 395px;
+}
+
+.receipt{
+    position: absolute;
+    /*top: 20px;
+    left: 650px;*/
+    top: -100px;
+    left: 630px;
+    z-index: 0;
+}
+
+.hr2{
+    margin: 0 auto;
+    top:50px;
+    color: #414141;
+    width: 50%;
+}
+
+.bu_about{
+    position: relative;
+    border: 0;
+    cursor: pointer;
+    background-color: transparent;
+    top: 80px;
+    left: 25%;
+    color: #414141;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25;
+}
+
+.bu_like{
+    position: relative;
+    border: 0;
+    cursor: pointer;
+    background-color: transparent;
+    top: 80px;
+    left: 43%;
+    color: #414141;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25;
+}
+
+.bu_work{
+    position: relative;
+    border: 0;
+    cursor: pointer;
+    background-color: transparent;
+    top: 80px;
+    left: 61%;
+    color: #414141;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25;
+}
